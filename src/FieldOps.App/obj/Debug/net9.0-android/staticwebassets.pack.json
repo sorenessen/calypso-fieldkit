@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/obj/Debug/net9.0-android/scopedcss/bundle/Calypso.FieldKit.App.styles.css",
+      "Id": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/obj/Debug/net9.0-android/scopedcss/bundle/Calypso.FieldKit.App.styles.css",
       "PackagePath": "staticwebassets/Calypso.FieldKit.App.styles.css"
     },
     {
-      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/css/app.css",
+      "Id": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
     {
-      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Id": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/index.html",
+      "Id": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {

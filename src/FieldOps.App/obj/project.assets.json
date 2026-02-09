@@ -23967,11 +23967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/FieldOps.App.csproj",
+      "projectUniqueName": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/FieldOps.App.csproj",
       "projectName": "Calypso.FieldKit.App",
-      "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/FieldOps.App.csproj",
+      "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/FieldOps.App.csproj",
       "packagesPath": "/Users/sorenessen/.nuget/packages/",
-      "outputPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/obj/",
+      "outputPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -23990,33 +23990,33 @@
         "net9.0-android35.0": {
           "targetAlias": "net9.0-android",
           "projectReferences": {
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj"
             },
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj"
             }
           }
         },
         "net9.0-ios26.0": {
           "targetAlias": "net9.0-ios",
           "projectReferences": {
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj"
             },
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj"
             }
           }
         },
         "net9.0-maccatalyst26.0": {
           "targetAlias": "net9.0-maccatalyst",
           "projectReferences": {
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj"
             },
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj"
             }
           }
         }

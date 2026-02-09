@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj",
+      "projectUniqueName": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj",
       "projectName": "FieldOps.Infrastructure",
-      "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj",
+      "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/FieldOps.Infrastructure.csproj",
       "packagesPath": "/Users/sorenessen/.nuget/packages/",
-      "outputPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Infrastructure/obj/",
+      "outputPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sorenessen/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj": {
-              "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj"
+            "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj": {
+              "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj"
             }
           }
         }

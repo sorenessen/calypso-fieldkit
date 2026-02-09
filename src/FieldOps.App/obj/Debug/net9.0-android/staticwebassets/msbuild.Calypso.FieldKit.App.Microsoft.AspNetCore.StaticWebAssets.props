@@ -17,7 +17,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5301</FileLength>
-      <LastWriteTime>Mon, 09 Feb 2026 02:03:57 GMT</LastWriteTime>
+      <LastWriteTime>Mon, 09 Feb 2026 05:20:31 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Calypso.FieldKit.App.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))">
@@ -32,12 +32,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e5tk7yf482</Fingerprint>
-      <Integrity>bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=</Integrity>
+      <Fingerprint>3bww1xw4ut</Fingerprint>
+      <Integrity>cc8yQyD0k9TJpCmgPNRZ9iqVgulPviN4ghjCg1ISFCU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>3376</FileLength>
-      <LastWriteTime>Sun, 08 Feb 2026 22:39:17 GMT</LastWriteTime>
+      <FileLength>350</FileLength>
+      <LastWriteTime>Mon, 09 Feb 2026 05:12:50 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css'))">
@@ -92,12 +92,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yk1ut6acp2</Fingerprint>
-      <Integrity>ghgPz0R2SN4nn4Qn8uIpNVOOerGMJOfH3DkZXyq8+2s=</Integrity>
+      <Fingerprint>p5bl1ecwis</Fingerprint>
+      <Integrity>vYTsvNC0quR+F+YNcKfS4VmL8+VEk8iNMrD5U4S1Hzc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>857</FileLength>
-      <LastWriteTime>Sun, 08 Feb 2026 22:39:17 GMT</LastWriteTime>
+      <FileLength>791</FileLength>
+      <LastWriteTime>Mon, 09 Feb 2026 05:18:24 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

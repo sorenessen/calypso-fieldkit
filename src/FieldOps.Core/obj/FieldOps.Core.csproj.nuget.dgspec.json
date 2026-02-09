@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj": {}
+    "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj": {}
   },
   "projects": {
-    "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj": {
+    "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj",
+        "projectUniqueName": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj",
         "projectName": "FieldOps.Core",
-        "projectPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/FieldOps.Core.csproj",
+        "projectPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/FieldOps.Core.csproj",
         "packagesPath": "/Users/sorenessen/.nuget/packages/",
-        "outputPath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/obj/",
+        "outputPath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sorenessen/.nuget/NuGet/NuGet.Config"

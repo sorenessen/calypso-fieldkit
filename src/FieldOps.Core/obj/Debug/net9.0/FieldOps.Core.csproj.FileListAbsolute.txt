@@ -9,3 +9,15 @@
 /Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/obj/Debug/net9.0/refint/FieldOps.Core.dll
 /Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.pdb
 /Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.Core/obj/Debug/net9.0/ref/FieldOps.Core.dll
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/bin/Debug/net9.0/FieldOps.Core.deps.json
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/bin/Debug/net9.0/FieldOps.Core.dll
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/bin/Debug/net9.0/FieldOps.Core.pdb
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.AssemblyInfoInputs.cache
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.AssemblyInfo.cs
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.csproj.CoreCompileInputs.cache
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.sourcelink.json
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.dll
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/refint/FieldOps.Core.dll
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/FieldOps.Core.pdb
+/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.Core/obj/Debug/net9.0/ref/FieldOps.Core.dll

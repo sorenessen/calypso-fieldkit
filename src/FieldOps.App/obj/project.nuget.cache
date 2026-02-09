@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kbVZCMz4Ou4=",
+  "dgSpecHash": "hipdlt9N6F8=",
   "success": true,
-  "projectFilePath": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/FieldOps.App.csproj",
+  "projectFilePath": "/Users/sorenessen/Projects/CalypsoFieldKit/src/FieldOps.App/FieldOps.App.csproj",
   "expectedPackageFiles": [
     "/Users/sorenessen/.nuget/packages/googlegson/2.13.0.1/googlegson.2.13.0.1.nupkg.sha512",
     "/Users/sorenessen/.nuget/packages/microsoft.aspnetcore.authorization/9.0.9/microsoft.aspnetcore.authorization.9.0.9.nupkg.sha512",
