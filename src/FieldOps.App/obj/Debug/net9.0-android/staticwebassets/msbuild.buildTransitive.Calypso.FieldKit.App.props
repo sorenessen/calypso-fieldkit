@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Calypso.FieldKit.App.props" />
+</Project>

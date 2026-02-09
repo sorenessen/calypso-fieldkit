@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/obj/Debug/net9.0-android/scopedcss/bundle/Calypso.FieldKit.App.styles.css",
+      "PackagePath": "staticwebassets/Calypso.FieldKit.App.styles.css"
+    },
+    {
+      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sorenessen/Projects/FieldOpsCompanion/src/FieldOps.App/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.Calypso.FieldKit.App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.Calypso.FieldKit.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.build.Calypso.FieldKit.App.props",
+      "PackagePath": "build\\Calypso.FieldKit.App.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.buildMultiTargeting.Calypso.FieldKit.App.props",
+      "PackagePath": "buildMultiTargeting\\Calypso.FieldKit.App.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-android/staticwebassets/msbuild.buildTransitive.Calypso.FieldKit.App.props",
+      "PackagePath": "buildTransitive\\Calypso.FieldKit.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

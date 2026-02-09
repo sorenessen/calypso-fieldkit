@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FieldOps.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FieldOps.Core": "1.0.0"
+        },
+        "runtime": {
+          "FieldOps.Infrastructure.dll": {}
+        }
+      },
+      "FieldOps.Core/1.0.0": {
+        "runtime": {
+          "FieldOps.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FieldOps.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FieldOps.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
